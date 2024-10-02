@@ -4,6 +4,14 @@ Kuvaus:
 
 Sports Tracker on Java-sovellus, jonka avulla voit kirjata urheilusuorituksia, tarkastella niitä ja laskea viikossa käytetyn ajan urheiluun.
 
+Programming languages:
+
+- Java
+
+Tools used:
+
+- IntelliJ IDEA
+
 Vaatimukset:
 
 - Tietokone (windows, linux, mac)
@@ -11,4 +19,4 @@ Vaatimukset:
 
 Käyttöohje: 
 
-Kloonaa tämä repositorio ja testaa sovellusta.
+Kloonaa tämä repositorio, jotta voit testata sovellusta.
